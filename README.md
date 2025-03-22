@@ -1,1 +1,1 @@
-# Geaometryczne_Projekt
+# 🚀 Lokalizacja Punktu w Przestrzeni Dwuwymiarowej - Metoda Trapezowa 🚀
